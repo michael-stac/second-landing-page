@@ -16,9 +16,7 @@
 }
 
 .desktop {
-  /* background-color: #32ccc4; */
-  /* background-color: #45a049; */
-  background-color: red;
+  background-color: #32ccc4;
   width: 100%;
   position: fixed;
   top: 0;
